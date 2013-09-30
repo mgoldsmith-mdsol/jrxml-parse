@@ -417,7 +417,7 @@
         }
     } else {
         console.log(
-            'Usage: node parseReports.js type\n' +
+            'Usage: node jrxmlParse.js type\n' +
             '\n' +
             'type:\n' +
             '  parameters\n' +
