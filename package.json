@@ -1,0 +1,15 @@
+{
+  "name": "jrxml-parse",
+  "version": "0.0.1",
+  "author": "Michael Goldsmith",
+  "description": "Utility to parse and sxtract data from JRXML files",
+  "main": "jrxmlParse.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgoldsmith-mdsol/jrxml-parse.git"
+  },
+  "dependencies": {
+    "node-xlsx": "~0.2.2",
+    "xmldoc": "~0.1.2"
+  }
+}
